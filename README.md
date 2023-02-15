@@ -56,8 +56,7 @@ Project Requirement
       <li> Email : [ Validation Rules : Accept only valid email address, Required ] </li>
       <li> Password : [ Validation Rules : Accept only valid password min 8 length with alphanumeric, Required ] </li>
       <li> Confirm Password : [ Validation Rules : should be same as Password field, Required ] </li>
-      <li> On Registration button click redirect to Admin dashboard page </li>
-      <li> Use migrations scrpits for tables </li>
+      <li> On Registration button click redirect to Admin dashboard page </li>      
       <li> Generate 5 dummy sample for Admin role using Factory and Seeder </li>
       <li> Follow PHP/Laravel code standards </li>
       <li> Make Seprate dashboard view ,admin table and Admin model </li>
@@ -73,8 +72,7 @@ Project Requirement
           <li> Email : [ Validation Rules : Accept only valid email address, Required ] </li>
           <li> Password : [ Validation Rules : Accept only valid password minimum 8 length with alphanumeric, Required ] </li>
           <li> Confirm Password : [ Validation Rules : should be same as Password field, Required ] </li>
-          <li> On Registration button redirect to Login Page with successfull register message </li>                    
-          <li> Use migrations scrpits for tables </li>
+          <li> On Registration button redirect to Login Page with successfull register message </li>                              
           <li> Generate 5 dummy sample for User role using Factory and Seeder </li>
           <li> Follow PHP/Laravel code standards </li>
           <li> Make Seprate dashboard view ,user table and User model </li>
